@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CSharp_tasks\\Task6102026\\Task1062026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6401C8-AFF4-456A-9875-F08F1A66B9B5}|Task1062026\\Task1062026.csproj|c:\\users\\user\\desktop\\csharp_tasks\\task6102026\\task1062026\\task1062026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6401C8-AFF4-456A-9875-F08F1A66B9B5}|Task1062026\\Task1062026.csproj|solutionrelative:task1062026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CSharp_tasks\\Task6102026\\Task1062026\\Task1062026\\Program.cs",
+              "RelativeDocumentMoniker": "Task1062026\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CSharp_tasks\\Task6102026\\Task1062026\\Task1062026\\Program.cs",
+              "RelativeToolTip": "Task1062026\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:02:55.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

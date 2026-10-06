@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\CSharp_tasks\Task6102026\Task1062026\Task1062026\bin\Debug\Task1062026.exe.config
+C:\Users\user\Desktop\CSharp_tasks\Task6102026\Task1062026\Task1062026\bin\Debug\Task1062026.exe
+C:\Users\user\Desktop\CSharp_tasks\Task6102026\Task1062026\Task1062026\bin\Debug\Task1062026.pdb
+C:\Users\user\Desktop\CSharp_tasks\Task6102026\Task1062026\Task1062026\obj\Debug\Task1062026.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CSharp_tasks\Task6102026\Task1062026\Task1062026\obj\Debug\Task1062026.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSharp_tasks\Task6102026\Task1062026\Task1062026\obj\Debug\Task1062026.exe
+C:\Users\user\Desktop\CSharp_tasks\Task6102026\Task1062026\Task1062026\obj\Debug\Task1062026.pdb
